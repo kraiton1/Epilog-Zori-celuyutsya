@@ -60,7 +60,7 @@
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "favicon": "@PROJECT_PATH@/assets/images/544-128x95.png",
-    "mbrsiteDomain": "adrzwxuv3h",
+    "mbrsiteDomain": "msm5so6qvw",
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
